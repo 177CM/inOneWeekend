@@ -140,13 +140,14 @@
     <ClInclude Include="bvh.h" />
     <ClInclude Include="camera.h" />
     <ClInclude Include="color.h" />
-    <ClInclude Include="constant_medium.h" />
     <ClInclude Include="external\stb_image.h" />
     <ClInclude Include="external\stb_image_write.h" />
     <ClInclude Include="hittable.h" />
     <ClInclude Include="hittable_list.h" />
     <ClInclude Include="material.h" />
     <ClInclude Include="moving_sphere.h" />
+    <ClInclude Include="onb.h" />
+    <ClInclude Include="pdf.h" />
     <ClInclude Include="perlin.h" />
     <ClInclude Include="ray.h" />
     <ClInclude Include="rtweekend.h" />

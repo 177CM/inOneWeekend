@@ -77,7 +77,10 @@
     <ClInclude Include="box.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="constant_medium.h">
+    <ClInclude Include="onb.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pdf.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
